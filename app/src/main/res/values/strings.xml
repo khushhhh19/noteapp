@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="register">register</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sing_in">Sign in</string>
+    <string name="empty_value" />
+    <string name="Register">Register</string>
+    <string name="Login">Login</string>
+</resources>
